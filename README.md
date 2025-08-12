@@ -74,3 +74,8 @@ Python • SQL • C# • Qlik Sense ile projeler üretiyorum.
 <!-- Snake (workflow kurduysan) -->
 <!-- <img src="https://raw.githubusercontent.com/ozogulemir/ozogulemir/output/snake.svg" alt="Snake animation" /> -->
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ozogulemir/ozogulemir/output/snake.svg" alt="Snake animation" />
+
+
