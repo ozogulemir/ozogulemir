@@ -1,4 +1,3 @@
-## Hi 👋, I'm Emir Özoğul
 <h2 align="left">Hi 👋, I'm Emir Özoğu</h2>
 
 ###
