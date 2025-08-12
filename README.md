@@ -22,8 +22,7 @@ Python • SQL • C# • Qlik Sense ile projeler üretiyorum.
 
 ---
 
-### Tech Stack
-### Tech Stack
+### LanguagesTools
 <div align="left">
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -45,6 +44,11 @@ Python • SQL • C# • Qlik Sense ile projeler üretiyorum.
   <img width="12" />
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+
+  <!-- Qlik Sense -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Qlik_Logo.svg" height="30" alt="qlik sense logo" />
+<img width="12" />
+
 </div>
 
 
