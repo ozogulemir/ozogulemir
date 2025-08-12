@@ -43,7 +43,7 @@ Python • SQL • C# • Qlik Sense ile projeler üretiyorum.
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/sql.png" height="30" alt="sql logo" />
   <img width="12" />
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://www.pngwing.com/en/free-png-pxlmn" height="30" alt="postgresql logo" />
 
   <!-- Qlik Sense -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Qlik_Logo.svg" height="30" alt="qlik sense logo" />
